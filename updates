@@ -3,3 +3,5 @@ The Current Update of our project is that our spell checker is able to identify 
 and then give 2 or 3 options such as whether to ignore spelling error,or make corrections based on suggested spellings or it should give options to write custom spelling, which will not be checked
 again, the purpose of introducing custom spelling is that, the dictionary which we are loading is not that vast because of which it will not be able to give all suggestions.
 And also in our next update we will make use of escape codes to highlight the incorrect words.
+And also uptill final version we are trying to include typing accuracy level counter in our code which will give the typing accuracy of the user.
+Also if possible to enhance dictionary, we will give users the permission to add on spellings which are not there, and user feels it should be there.
