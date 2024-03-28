@@ -1,2 +1,2 @@
-The first version of the code is sc.cpp
+The first version of the code is sc.cpp  it can ceck speeling, highlight the incorrect word and give option to user whether to ignore the error it orr enter customly type spelling
 The final dictionary ised is dictionary_111.txt which is merged version of cambridge.txt, dictionary.txt,final_dic.txt
