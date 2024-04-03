@@ -3,3 +3,4 @@ The final dictionary ised is dictionary_111.txt which is merged version of cambr
 in the code if you enter 1 then after that you have to press the suggestion index with wich you want to replace the false word
 if you enter 2 then it wil ignore
 if you enter 3 then after that you have to write custom spelling with which you want to replace the given spelling
+sc_fin.cpp is the final version and sc.cpp is the earlier version, we have just putten it for reference
