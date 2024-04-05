@@ -4,4 +4,9 @@ and then give 2 or 3 options such as whether to ignore spelling error,or make co
 again, the purpose of introducing custom spelling is that, the dictionary which we are loading is not that vast because of which it will not be able to give all suggestions.
 And also in our next update we will make use of ANSCII codes to highlight the incorrect words.
 
+Date 05/04/2024
+All of the things that were pointed out earlier have been covered and now our c++ implementation of spell checker gives suggestions,can ignore
+and can also give option of giving custom correction
+Also we made a python implementation of it which checks spellings, gives accuracy and also can pronounce the corrected sentence
+
 .
