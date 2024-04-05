@@ -16,4 +16,4 @@ Project Contributions:
 3) Project Documentation->done by Krish Patel(202301078) and Aryan Patel(202301005)
 
 Important Note:
-Before proceeding to check our code kindly read important updates
+Before proceeding to check our code kindly read important notes
