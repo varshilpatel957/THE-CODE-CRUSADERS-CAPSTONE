@@ -7,6 +7,8 @@ And also in our next update we will make use of ANSCII codes to highlight the in
 Date 05/04/2024
 All of the things that were pointed out earlier have been covered and now our c++ implementation of spell checker gives suggestions,can ignore
 and can also give option of giving custom correction
-Also we made a python implementation of it which checks spellings, gives accuracy and also can pronounce the corrected sentence
+Also we made a python implementation of it which checks spellings, gives accuracy and also can pronounce the corrected sentence.
+
+So according to us our capstone is ready only slight finishing touches if needed will be given here on
 
 .
